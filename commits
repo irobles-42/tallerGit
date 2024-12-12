@@ -1,4 +1,10 @@
-commit 6c8a46d72ede8b2860bd89e6ffe0b95d93e65851 (HEAD -> irobles, origin/main, origin/HEAD, main)
+commit 157a811d30f1b04181e98c6491e0f4f2e45aa491 (HEAD -> irobles, origin/irobles)
+Author: Isaac Robles Jurado <irobles-@c1r4s1.42malaga.com>
+Date:   Thu Dec 12 16:46:52 2024 +0100
+
+    archivo taller
+
+commit 6c8a46d72ede8b2860bd89e6ffe0b95d93e65851 (origin/main, origin/HEAD, main)
 Author: PaLucena <pablolucena01@gmail.com>
 Date:   Thu Dec 12 15:49:36 2024 +0100
 
@@ -42,7 +48,4 @@ Date:   Tue Dec 3 23:31:17 2024 +0100
 
 commit 93bf675d614ab02669f8c825ec9734474c302f98
 Author: Pablo Lucena González <pablolucena01@gmail.com>
-Date:   Tue Dec 3 20:05:44 2024 +0100
-
-    Initial commit
 
